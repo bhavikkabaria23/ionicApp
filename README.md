@@ -41,4 +41,4 @@ Serve the app
 $ ionic serve
 ```
 
-Head to *http://localhost:8100* in your browser and you'll see the app running
+Head to (http://localhost:8100) in your browser and you'll see the app running
