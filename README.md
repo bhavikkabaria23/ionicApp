@@ -25,7 +25,7 @@ Clone this repo
 $ git clone https://github.com/bhavikkabaria23/ionicApp-demo
 ```
 
-cd into the "ionicApp" folder run npm install
+cd into the "ionicApp-demo" folder run npm install
 ```bash
 $ npm install
 ```
