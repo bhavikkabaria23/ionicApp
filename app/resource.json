@@ -1,0 +1,20 @@
+{
+"path":
+  {
+   "apiUrl":"http://localhost:3000"
+  },
+  "message":
+  {
+   
+  },
+  "system":
+    {
+      "defaultPort":3000
+    },
+    "route":
+    {
+     
+    }
+  
+}
+  
