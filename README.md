@@ -22,7 +22,7 @@ $ npm install -g cordova
 
 Clone this repo
 ```bash
-$ git clone https://github.com/gangachris/githubionic
+$ git clone https://github.com/bhavikkabaria23/ionicApp-demo
 ```
 
 cd into the "ionicApp" folder run npm install
