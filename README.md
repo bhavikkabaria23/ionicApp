@@ -12,7 +12,7 @@ $ npm install -g typings
 
 Install Ionic 2
 ```bash
-$ npm install -g ionic@beta
+$ npm install -g ionic@beta 
 ```
 
 Install Cordova
@@ -34,7 +34,7 @@ install typings
 $ typings install
 ```
 ### Target Node API
-Find "resources.ts" file and change "apiUrl" as you want.
+Find [resources.ts](https://github.com/bhavikkabaria23/ionicApp-demo/blob/master/app/resources.ts) file and change "apiUrl" as you want.
 
 Serve the app
 ```bash
