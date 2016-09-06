@@ -1,5 +1,5 @@
 ## Ionic App Demo
-This is a sample Ionic 2 App that consumes the Node API from here https://github.com/Funkygeek/profileapp
+This is a sample Ionic 2 App with Angular 2 that consumes the Node API from here https://github.com/Funkygeek/profileapp
 
 ## Run the app
 Make sure you have [nodejs](https://nodejs.org/en/) installed.
